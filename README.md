@@ -1,6 +1,4 @@
-# Informatioanl Site
-[![Run on Repl.it](https://repl.it/badge/github/Andrsrz/informational-site)](https://repl.it/github/Andrsrz/informational-site)
-
+# [Informatioanl Site](https://informational-site--andrsrz.repl.co/)
 [The Odin Project](https://www.theodinproject.com/) - [Project Basic Informational Site](https://www.theodinproject.com/courses/nodejs/lessons/basic-informational-site).
 
 ## What have I learned?
